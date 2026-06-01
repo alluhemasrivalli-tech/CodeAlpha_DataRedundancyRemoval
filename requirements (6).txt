@@ -1,0 +1,5 @@
+# Task 1: Data Redundancy Removal System
+# Python 3.8+ — only stdlib is required for core functionality.
+# pytest is needed only for running tests.
+
+pytest>=7.0
